@@ -14,6 +14,13 @@
 		{
 			"Name": "CommonUI",
 			"Enabled": true
+		},
+		{
+			"Name": "RacingUI",
+			"Enabled": false
 		}
+	],
+	"AdditionalPluginDirectories": [
+		"../ContentPlugins"
 	]
 }
